@@ -1,0 +1,894 @@
+{
+  "batch": "new1-new-merged",
+  "created_at": "2026-09-13T14:18:12.927501+00:00",
+  "wallet_name": "money",
+  "netuid": 67,
+  "match_seed": 202609131416,
+  "match_mode": "target_hotkeys_random_include_top",
+  "agent_dir": "/root/new1/new/merged",
+  "must_include": [
+    "/root/new1/new/top.py"
+  ],
+  "target_hotkeys": [
+    "hk-67-1",
+    "hk-67-12",
+    "hk-67-13",
+    "hk-67-15",
+    "hk-67-16",
+    "hk-67-17",
+    "hk-67-18",
+    "hk-67-19",
+    "hk-67-2",
+    "hk-67-20"
+  ],
+  "agent_count": 18,
+  "selected_agent_count": 10,
+  "matched_count": 10,
+  "unused_agent_count": 8,
+  "matches": [
+    {
+      "hotkey_name": "hk-67-1",
+      "hotkey_address": "5CqtNBPcmsyqENjyYJcpjGPMEefXF4ZzeePKpRg42ev1MgDx",
+      "subnet_uid": 34,
+      "wallet_name": "money",
+      "agent_filename": "uid-101__uid_101__artifact_e4fd858a-ed8c-4cce-a815-8577047c0b29.py",
+      "agent_name": "uid-101__uid_101__artifact_e4fd858a-ed8c-4cce-a815-8577047c0b29.py",
+      "agent_path": "/root/new1/new/merged/uid-101__uid_101__artifact_e4fd858a-ed8c-4cce-a815-8577047c0b29.py",
+      "agent_uid": "101",
+      "agent_uids": [
+        "101"
+      ],
+      "llm_providers": [
+        "ai_gateway",
+        "chutes",
+        "openrouter"
+      ],
+      "search_providers": [
+        "desearch",
+        "exa",
+        "firecrawl",
+        "parallel",
+        "tavily"
+      ],
+      "models": [
+        "deepseek/deepseek-v3.2",
+        "deepseek/deepseek-v4-flash",
+        "deepseek/deepseek-v4-flash-0731",
+        "deepseek/deepseek-v4-pro",
+        "google/gemma-4-31B-turbo-TEE",
+        "google/gemma-4-31b-it",
+        "moonshotai/Kimi-K2.6-TEE",
+        "openai/gpt-oss",
+        "openai/gpt-oss-120b",
+        "openai/gpt-oss-20b",
+        "qwen/qwen3.5-397b-a17b",
+        "qwen/qwen3.6-27b",
+        "qwen/qwen3.8-27b",
+        "z-ai/glm-5",
+        "z-ai/glm-5.2",
+        "z-ai/glm-5.3-flash",
+        "zai/glm-5.2-fast",
+        "zai/glm-5.3-flash"
+      ],
+      "providers": {
+        "llm_providers": [
+          "ai_gateway",
+          "chutes",
+          "openrouter"
+        ],
+        "search_providers": [
+          "desearch",
+          "exa",
+          "firecrawl",
+          "parallel",
+          "tavily"
+        ],
+        "models": [
+          "deepseek/deepseek-v3.2",
+          "deepseek/deepseek-v4-flash",
+          "deepseek/deepseek-v4-flash-0731",
+          "deepseek/deepseek-v4-pro",
+          "google/gemma-4-31B-turbo-TEE",
+          "google/gemma-4-31b-it",
+          "moonshotai/Kimi-K2.6-TEE",
+          "openai/gpt-oss",
+          "openai/gpt-oss-120b",
+          "openai/gpt-oss-20b",
+          "qwen/qwen3.5-397b-a17b",
+          "qwen/qwen3.6-27b",
+          "qwen/qwen3.8-27b",
+          "z-ai/glm-5",
+          "z-ai/glm-5.2",
+          "z-ai/glm-5.3-flash",
+          "zai/glm-5.2-fast",
+          "zai/glm-5.3-flash"
+        ]
+      },
+      "query_tag": "merged-hk671",
+      "matched_at": "2026-09-13T14:18:13.046129+00:00",
+      "date": "2026-09-13T14:18:13.046129+00:00",
+      "status": "failed",
+      "failed_at": "2026-09-14T06:15:59.868257+00:00"
+    },
+    {
+      "hotkey_name": "hk-67-2",
+      "hotkey_address": "5GTpM3bKEEfYJXV8tPyiZzPPgmQv8AU8wVbFBDcGD23YNjRz",
+      "subnet_uid": 179,
+      "wallet_name": "money",
+      "agent_filename": "uid-6__uid_6__artifact_be04f22c-d14a-4478-b70e-78b3c8c5e86a.py",
+      "agent_name": "uid-6__uid_6__artifact_be04f22c-d14a-4478-b70e-78b3c8c5e86a.py",
+      "agent_path": "/root/new1/new/merged/uid-6__uid_6__artifact_be04f22c-d14a-4478-b70e-78b3c8c5e86a.py",
+      "agent_uid": "6",
+      "agent_uids": [
+        "6"
+      ],
+      "llm_providers": [
+        "ai_gateway",
+        "chutes",
+        "openrouter"
+      ],
+      "search_providers": [
+        "desearch",
+        "exa",
+        "firecrawl",
+        "parallel",
+        "tavily"
+      ],
+      "models": [
+        "deepseek/deepseek-v3.2",
+        "deepseek/deepseek-v4-flash",
+        "deepseek/deepseek-v4-flash-0731",
+        "deepseek/deepseek-v4-pro",
+        "google/gemma-4-31B-turbo-TEE",
+        "google/gemma-4-31b-it",
+        "moonshotai/Kimi-K2.6-TEE",
+        "openai/gpt-oss",
+        "openai/gpt-oss-120b",
+        "openai/gpt-oss-20b",
+        "qwen/qwen3.5-397b-a17b",
+        "qwen/qwen3.6-27b",
+        "qwen/qwen3.8-27b",
+        "z-ai/glm-5",
+        "z-ai/glm-5.2",
+        "z-ai/glm-5.3-flash",
+        "zai/glm-5.2-fast",
+        "zai/glm-5.3-flash"
+      ],
+      "providers": {
+        "llm_providers": [
+          "ai_gateway",
+          "chutes",
+          "openrouter"
+        ],
+        "search_providers": [
+          "desearch",
+          "exa",
+          "firecrawl",
+          "parallel",
+          "tavily"
+        ],
+        "models": [
+          "deepseek/deepseek-v3.2",
+          "deepseek/deepseek-v4-flash",
+          "deepseek/deepseek-v4-flash-0731",
+          "deepseek/deepseek-v4-pro",
+          "google/gemma-4-31B-turbo-TEE",
+          "google/gemma-4-31b-it",
+          "moonshotai/Kimi-K2.6-TEE",
+          "openai/gpt-oss",
+          "openai/gpt-oss-120b",
+          "openai/gpt-oss-20b",
+          "qwen/qwen3.5-397b-a17b",
+          "qwen/qwen3.6-27b",
+          "qwen/qwen3.8-27b",
+          "z-ai/glm-5",
+          "z-ai/glm-5.2",
+          "z-ai/glm-5.3-flash",
+          "zai/glm-5.2-fast",
+          "zai/glm-5.3-flash"
+        ]
+      },
+      "query_tag": "merged-hk672",
+      "matched_at": "2026-09-13T14:18:13.084077+00:00",
+      "date": "2026-09-13T14:18:13.084077+00:00",
+      "status": "failed",
+      "submitted_at": "2026-09-13T14:19:50.425149+00:00",
+      "failed_at": "2026-09-14T06:15:59.868257+00:00"
+    },
+    {
+      "hotkey_name": "hk-67-12",
+      "hotkey_address": "5Fpu1SzvQei6QAfQQnZ1cn1cU9RsYrtg3EXHBu9miuv2b4ca",
+      "subnet_uid": 250,
+      "wallet_name": "money",
+      "agent_filename": "uid-80__uid_80__artifact_1afe2eb2-6a46-421a-a783-0f452958b816.py",
+      "agent_name": "uid-80__uid_80__artifact_1afe2eb2-6a46-421a-a783-0f452958b816.py",
+      "agent_path": "/root/new1/new/merged/uid-80__uid_80__artifact_1afe2eb2-6a46-421a-a783-0f452958b816.py",
+      "agent_uid": "80",
+      "agent_uids": [
+        "80"
+      ],
+      "llm_providers": [
+        "ai_gateway",
+        "chutes",
+        "openrouter"
+      ],
+      "search_providers": [
+        "desearch",
+        "exa",
+        "firecrawl",
+        "parallel",
+        "tavily"
+      ],
+      "models": [
+        "deepseek/deepseek-v3.2",
+        "deepseek/deepseek-v4-flash",
+        "deepseek/deepseek-v4-flash-0731",
+        "deepseek/deepseek-v4-pro",
+        "google/gemma-4-31B-turbo-TEE",
+        "google/gemma-4-31b-it",
+        "moonshotai/Kimi-K2.6-TEE",
+        "openai/gpt-oss",
+        "openai/gpt-oss-120b",
+        "openai/gpt-oss-20b",
+        "qwen/qwen3.5-397b-a17b",
+        "qwen/qwen3.6-27b",
+        "qwen/qwen3.8-27b",
+        "z-ai/glm-5",
+        "z-ai/glm-5.2",
+        "z-ai/glm-5.3-flash",
+        "zai/glm-5.2-fast",
+        "zai/glm-5.3-flash"
+      ],
+      "providers": {
+        "llm_providers": [
+          "ai_gateway",
+          "chutes",
+          "openrouter"
+        ],
+        "search_providers": [
+          "desearch",
+          "exa",
+          "firecrawl",
+          "parallel",
+          "tavily"
+        ],
+        "models": [
+          "deepseek/deepseek-v3.2",
+          "deepseek/deepseek-v4-flash",
+          "deepseek/deepseek-v4-flash-0731",
+          "deepseek/deepseek-v4-pro",
+          "google/gemma-4-31B-turbo-TEE",
+          "google/gemma-4-31b-it",
+          "moonshotai/Kimi-K2.6-TEE",
+          "openai/gpt-oss",
+          "openai/gpt-oss-120b",
+          "openai/gpt-oss-20b",
+          "qwen/qwen3.5-397b-a17b",
+          "qwen/qwen3.6-27b",
+          "qwen/qwen3.8-27b",
+          "z-ai/glm-5",
+          "z-ai/glm-5.2",
+          "z-ai/glm-5.3-flash",
+          "zai/glm-5.2-fast",
+          "zai/glm-5.3-flash"
+        ]
+      },
+      "query_tag": "merged-hk6712",
+      "matched_at": "2026-09-13T14:18:13.310053+00:00",
+      "date": "2026-09-13T14:18:13.310053+00:00",
+      "status": "failed",
+      "failed_at": "2026-09-14T06:15:59.868257+00:00"
+    },
+    {
+      "hotkey_name": "hk-67-13",
+      "hotkey_address": "5Fus1cyiyUDZGbM2hDadvhQn5DrnrmVBNJfeoU4hnq1f9YuF",
+      "subnet_uid": 73,
+      "wallet_name": "money",
+      "agent_filename": "uid-206__uid_206__artifact_a1992dc4-4365-4e8e-9c8f-334e302087dc.py",
+      "agent_name": "uid-206__uid_206__artifact_a1992dc4-4365-4e8e-9c8f-334e302087dc.py",
+      "agent_path": "/root/new1/new/merged/uid-206__uid_206__artifact_a1992dc4-4365-4e8e-9c8f-334e302087dc.py",
+      "agent_uid": "206",
+      "agent_uids": [
+        "206"
+      ],
+      "llm_providers": [
+        "ai_gateway",
+        "chutes",
+        "openrouter"
+      ],
+      "search_providers": [
+        "desearch",
+        "exa",
+        "firecrawl",
+        "parallel",
+        "tavily"
+      ],
+      "models": [
+        "deepseek/deepseek-v3.2",
+        "deepseek/deepseek-v4-flash",
+        "deepseek/deepseek-v4-flash-0731",
+        "deepseek/deepseek-v4-pro",
+        "google/gemma-4-31B-turbo-TEE",
+        "google/gemma-4-31b-it",
+        "moonshotai/Kimi-K2.6-TEE",
+        "openai/gpt-oss",
+        "openai/gpt-oss-120b",
+        "openai/gpt-oss-20b",
+        "qwen/qwen3.5-397b-a17b",
+        "qwen/qwen3.6-27b",
+        "qwen/qwen3.8-27b",
+        "z-ai/glm-5",
+        "z-ai/glm-5.2",
+        "z-ai/glm-5.3-flash",
+        "zai/glm-5.2-fast",
+        "zai/glm-5.3-flash"
+      ],
+      "providers": {
+        "llm_providers": [
+          "ai_gateway",
+          "chutes",
+          "openrouter"
+        ],
+        "search_providers": [
+          "desearch",
+          "exa",
+          "firecrawl",
+          "parallel",
+          "tavily"
+        ],
+        "models": [
+          "deepseek/deepseek-v3.2",
+          "deepseek/deepseek-v4-flash",
+          "deepseek/deepseek-v4-flash-0731",
+          "deepseek/deepseek-v4-pro",
+          "google/gemma-4-31B-turbo-TEE",
+          "google/gemma-4-31b-it",
+          "moonshotai/Kimi-K2.6-TEE",
+          "openai/gpt-oss",
+          "openai/gpt-oss-120b",
+          "openai/gpt-oss-20b",
+          "qwen/qwen3.5-397b-a17b",
+          "qwen/qwen3.6-27b",
+          "qwen/qwen3.8-27b",
+          "z-ai/glm-5",
+          "z-ai/glm-5.2",
+          "z-ai/glm-5.3-flash",
+          "zai/glm-5.2-fast",
+          "zai/glm-5.3-flash"
+        ]
+      },
+      "query_tag": "merged-hk6713",
+      "matched_at": "2026-09-13T14:18:13.127353+00:00",
+      "date": "2026-09-13T14:18:13.127353+00:00",
+      "status": "failed",
+      "failed_at": "2026-09-14T06:15:59.868257+00:00"
+    },
+    {
+      "hotkey_name": "hk-67-15",
+      "hotkey_address": "5G4KcrF2ehQdSm1qbsp7SHV1GWiR4xALngLNfGT52YWEDDzD",
+      "subnet_uid": 119,
+      "wallet_name": "money",
+      "agent_filename": "uid-215__uid_215__artifact_71e5b61a-b49b-4ae3-b318-ac507564a9f4.py",
+      "agent_name": "uid-215__uid_215__artifact_71e5b61a-b49b-4ae3-b318-ac507564a9f4.py",
+      "agent_path": "/root/new1/new/merged/uid-215__uid_215__artifact_71e5b61a-b49b-4ae3-b318-ac507564a9f4.py",
+      "agent_uid": "215",
+      "agent_uids": [
+        "215"
+      ],
+      "llm_providers": [
+        "ai_gateway",
+        "chutes",
+        "openrouter"
+      ],
+      "search_providers": [
+        "desearch",
+        "exa",
+        "firecrawl",
+        "parallel",
+        "tavily"
+      ],
+      "models": [
+        "deepseek/deepseek-v3.2",
+        "deepseek/deepseek-v4-flash",
+        "deepseek/deepseek-v4-flash-0731",
+        "deepseek/deepseek-v4-pro",
+        "google/gemma-4-31B-turbo-TEE",
+        "google/gemma-4-31b-it",
+        "moonshotai/Kimi-K2.6-TEE",
+        "openai/gpt-oss",
+        "openai/gpt-oss-120b",
+        "openai/gpt-oss-20b",
+        "qwen/qwen3.5-397b-a17b",
+        "qwen/qwen3.6-27b",
+        "qwen/qwen3.8-27b",
+        "z-ai/glm-5",
+        "z-ai/glm-5.2",
+        "z-ai/glm-5.3-flash",
+        "zai/glm-5.2-fast",
+        "zai/glm-5.3-flash"
+      ],
+      "providers": {
+        "llm_providers": [
+          "ai_gateway",
+          "chutes",
+          "openrouter"
+        ],
+        "search_providers": [
+          "desearch",
+          "exa",
+          "firecrawl",
+          "parallel",
+          "tavily"
+        ],
+        "models": [
+          "deepseek/deepseek-v3.2",
+          "deepseek/deepseek-v4-flash",
+          "deepseek/deepseek-v4-flash-0731",
+          "deepseek/deepseek-v4-pro",
+          "google/gemma-4-31B-turbo-TEE",
+          "google/gemma-4-31b-it",
+          "moonshotai/Kimi-K2.6-TEE",
+          "openai/gpt-oss",
+          "openai/gpt-oss-120b",
+          "openai/gpt-oss-20b",
+          "qwen/qwen3.5-397b-a17b",
+          "qwen/qwen3.6-27b",
+          "qwen/qwen3.8-27b",
+          "z-ai/glm-5",
+          "z-ai/glm-5.2",
+          "z-ai/glm-5.3-flash",
+          "zai/glm-5.2-fast",
+          "zai/glm-5.3-flash"
+        ]
+      },
+      "query_tag": "merged-hk6715",
+      "matched_at": "2026-09-13T14:18:13.009320+00:00",
+      "date": "2026-09-13T14:18:13.009320+00:00",
+      "status": "failed",
+      "failed_at": "2026-09-14T06:15:59.868257+00:00"
+    },
+    {
+      "hotkey_name": "hk-67-16",
+      "hotkey_address": "5Hiv4xMd4RV9dqmskosN8rTBCJKcwEdsMNXD3yacLke5dBAN",
+      "subnet_uid": 88,
+      "wallet_name": "money",
+      "agent_filename": "uid-27__uid_27__artifact_69ee20b5-1b94-41fd-bbe6-9a4e9ade1b1a.py",
+      "agent_name": "uid-27__uid_27__artifact_69ee20b5-1b94-41fd-bbe6-9a4e9ade1b1a.py",
+      "agent_path": "/root/new1/new/merged/uid-27__uid_27__artifact_69ee20b5-1b94-41fd-bbe6-9a4e9ade1b1a.py",
+      "agent_uid": "27",
+      "agent_uids": [
+        "27"
+      ],
+      "llm_providers": [
+        "ai_gateway",
+        "chutes",
+        "openrouter"
+      ],
+      "search_providers": [
+        "desearch",
+        "exa",
+        "firecrawl",
+        "parallel",
+        "tavily"
+      ],
+      "models": [
+        "deepseek/deepseek-v3.2",
+        "deepseek/deepseek-v4-flash",
+        "deepseek/deepseek-v4-flash-0731",
+        "deepseek/deepseek-v4-pro",
+        "google/gemma-4-31B-turbo-TEE",
+        "google/gemma-4-31b-it",
+        "moonshotai/Kimi-K2.6-TEE",
+        "openai/gpt-oss",
+        "openai/gpt-oss-120b",
+        "openai/gpt-oss-20b",
+        "qwen/qwen3.5-397b-a17b",
+        "qwen/qwen3.6-27b",
+        "qwen/qwen3.8-27b",
+        "z-ai/glm-5",
+        "z-ai/glm-5.2",
+        "z-ai/glm-5.3-flash",
+        "zai/glm-5.2-fast",
+        "zai/glm-5.3-flash"
+      ],
+      "providers": {
+        "llm_providers": [
+          "ai_gateway",
+          "chutes",
+          "openrouter"
+        ],
+        "search_providers": [
+          "desearch",
+          "exa",
+          "firecrawl",
+          "parallel",
+          "tavily"
+        ],
+        "models": [
+          "deepseek/deepseek-v3.2",
+          "deepseek/deepseek-v4-flash",
+          "deepseek/deepseek-v4-flash-0731",
+          "deepseek/deepseek-v4-pro",
+          "google/gemma-4-31B-turbo-TEE",
+          "google/gemma-4-31b-it",
+          "moonshotai/Kimi-K2.6-TEE",
+          "openai/gpt-oss",
+          "openai/gpt-oss-120b",
+          "openai/gpt-oss-20b",
+          "qwen/qwen3.5-397b-a17b",
+          "qwen/qwen3.6-27b",
+          "qwen/qwen3.8-27b",
+          "z-ai/glm-5",
+          "z-ai/glm-5.2",
+          "z-ai/glm-5.3-flash",
+          "zai/glm-5.2-fast",
+          "zai/glm-5.3-flash"
+        ]
+      },
+      "query_tag": "merged-hk6716",
+      "matched_at": "2026-09-13T14:18:13.227014+00:00",
+      "date": "2026-09-13T14:18:13.227014+00:00",
+      "status": "failed",
+      "failed_at": "2026-09-14T06:15:59.868257+00:00"
+    },
+    {
+      "hotkey_name": "hk-67-17",
+      "hotkey_address": "5Eo9A65fQVxjmHidmK6j2g7FmDWbdJ4NTZRWbL1uKEyE3A79",
+      "subnet_uid": 225,
+      "wallet_name": "money",
+      "agent_filename": "uid-242__uid_242__artifact_3e368f45-52cc-4c7b-aeca-d9f7600fc83e.py",
+      "agent_name": "uid-242__uid_242__artifact_3e368f45-52cc-4c7b-aeca-d9f7600fc83e.py",
+      "agent_path": "/root/new1/new/merged/uid-242__uid_242__artifact_3e368f45-52cc-4c7b-aeca-d9f7600fc83e.py",
+      "agent_uid": "242",
+      "agent_uids": [
+        "242"
+      ],
+      "llm_providers": [
+        "ai_gateway",
+        "chutes",
+        "openrouter"
+      ],
+      "search_providers": [
+        "desearch",
+        "exa",
+        "firecrawl",
+        "parallel",
+        "tavily"
+      ],
+      "models": [
+        "deepseek/deepseek-v3.2",
+        "deepseek/deepseek-v4-flash",
+        "deepseek/deepseek-v4-flash-0731",
+        "deepseek/deepseek-v4-pro",
+        "google/gemma-4-31B-turbo-TEE",
+        "google/gemma-4-31b-it",
+        "moonshotai/Kimi-K2.6-TEE",
+        "openai/gpt-oss",
+        "openai/gpt-oss-120b",
+        "openai/gpt-oss-20b",
+        "qwen/qwen3.5-397b-a17b",
+        "qwen/qwen3.6-27b",
+        "qwen/qwen3.8-27b",
+        "z-ai/glm-5",
+        "z-ai/glm-5.2",
+        "z-ai/glm-5.3-flash",
+        "zai/glm-5.2-fast",
+        "zai/glm-5.3-flash"
+      ],
+      "providers": {
+        "llm_providers": [
+          "ai_gateway",
+          "chutes",
+          "openrouter"
+        ],
+        "search_providers": [
+          "desearch",
+          "exa",
+          "firecrawl",
+          "parallel",
+          "tavily"
+        ],
+        "models": [
+          "deepseek/deepseek-v3.2",
+          "deepseek/deepseek-v4-flash",
+          "deepseek/deepseek-v4-flash-0731",
+          "deepseek/deepseek-v4-pro",
+          "google/gemma-4-31B-turbo-TEE",
+          "google/gemma-4-31b-it",
+          "moonshotai/Kimi-K2.6-TEE",
+          "openai/gpt-oss",
+          "openai/gpt-oss-120b",
+          "openai/gpt-oss-20b",
+          "qwen/qwen3.5-397b-a17b",
+          "qwen/qwen3.6-27b",
+          "qwen/qwen3.8-27b",
+          "z-ai/glm-5",
+          "z-ai/glm-5.2",
+          "z-ai/glm-5.3-flash",
+          "zai/glm-5.2-fast",
+          "zai/glm-5.3-flash"
+        ]
+      },
+      "query_tag": "merged-hk6717",
+      "matched_at": "2026-09-13T14:18:12.928900+00:00",
+      "date": "2026-09-13T14:18:12.928900+00:00",
+      "status": "failed",
+      "failed_at": "2026-09-14T06:15:59.868257+00:00"
+    },
+    {
+      "hotkey_name": "hk-67-18",
+      "hotkey_address": "5E48b5SX8DYC8wLu3D5fKdCJ3Qq2ymecCu2KPoovbzJjodQT",
+      "subnet_uid": 170,
+      "wallet_name": "money",
+      "agent_filename": "uid-244__uid_75__artifact_f2604e05-1ff1-4861-84c8-97777d24d51c.py",
+      "agent_name": "uid-244__uid_75__artifact_f2604e05-1ff1-4861-84c8-97777d24d51c.py",
+      "agent_path": "/root/new1/new/merged/uid-244__uid_75__artifact_f2604e05-1ff1-4861-84c8-97777d24d51c.py",
+      "agent_uid": "244",
+      "agent_uids": [
+        "244",
+        "75"
+      ],
+      "llm_providers": [
+        "ai_gateway",
+        "chutes",
+        "openrouter"
+      ],
+      "search_providers": [
+        "desearch",
+        "exa",
+        "firecrawl",
+        "parallel",
+        "tavily"
+      ],
+      "models": [
+        "deepseek/deepseek-v3.2",
+        "deepseek/deepseek-v4-flash",
+        "deepseek/deepseek-v4-flash-0731",
+        "deepseek/deepseek-v4-pro",
+        "google/gemma-4-31B-turbo-TEE",
+        "google/gemma-4-31b-it",
+        "moonshotai/Kimi-K2.6-TEE",
+        "openai/gpt-oss",
+        "openai/gpt-oss-120b",
+        "openai/gpt-oss-20b",
+        "qwen/qwen3.5-397b-a17b",
+        "qwen/qwen3.6-27b",
+        "qwen/qwen3.8-27b",
+        "z-ai/glm-5",
+        "z-ai/glm-5.2",
+        "z-ai/glm-5.3-flash",
+        "zai/glm-5.2-fast",
+        "zai/glm-5.3-flash"
+      ],
+      "providers": {
+        "llm_providers": [
+          "ai_gateway",
+          "chutes",
+          "openrouter"
+        ],
+        "search_providers": [
+          "desearch",
+          "exa",
+          "firecrawl",
+          "parallel",
+          "tavily"
+        ],
+        "models": [
+          "deepseek/deepseek-v3.2",
+          "deepseek/deepseek-v4-flash",
+          "deepseek/deepseek-v4-flash-0731",
+          "deepseek/deepseek-v4-pro",
+          "google/gemma-4-31B-turbo-TEE",
+          "google/gemma-4-31b-it",
+          "moonshotai/Kimi-K2.6-TEE",
+          "openai/gpt-oss",
+          "openai/gpt-oss-120b",
+          "openai/gpt-oss-20b",
+          "qwen/qwen3.5-397b-a17b",
+          "qwen/qwen3.6-27b",
+          "qwen/qwen3.8-27b",
+          "z-ai/glm-5",
+          "z-ai/glm-5.2",
+          "z-ai/glm-5.3-flash",
+          "zai/glm-5.2-fast",
+          "zai/glm-5.3-flash"
+        ]
+      },
+      "query_tag": "merged-hk6718",
+      "matched_at": "2026-09-13T14:18:12.970603+00:00",
+      "date": "2026-09-13T14:18:12.970603+00:00",
+      "status": "failed",
+      "failed_at": "2026-09-14T06:15:59.868257+00:00"
+    },
+    {
+      "hotkey_name": "hk-67-19",
+      "hotkey_address": "5C4tApAtufgz97TmARHBk83DE4KpsB27cXxg6pktuBP1ZcDD",
+      "subnet_uid": 8,
+      "wallet_name": "money",
+      "agent_filename": "top.py",
+      "agent_name": "top.py",
+      "agent_path": "/root/new1/new/top.py",
+      "agent_uid": "",
+      "agent_uids": [],
+      "llm_providers": [
+        "ai_gateway",
+        "openrouter"
+      ],
+      "search_providers": [
+        "exa",
+        "firecrawl",
+        "parallel",
+        "tavily"
+      ],
+      "models": [
+        "deepseek/deepseek-v3.2",
+        "deepseek/deepseek-v4-flash",
+        "deepseek/deepseek-v4-flash-0731",
+        "deepseek/deepseek-v4-pro",
+        "google/deepsearchqa",
+        "google/gemma-4-31B-turbo-TEE",
+        "google/gemma-4-31b-it",
+        "moonshotai/Kimi-K2.6-TEE",
+        "openai/gpt-oss",
+        "openai/gpt-oss-120b",
+        "openai/gpt-oss-20b",
+        "qwen/qwen3.5-397b-a17b",
+        "qwen/qwen3.6-27b",
+        "qwen/qwen3.8-27b",
+        "z-ai/glm-5",
+        "z-ai/glm-5.2",
+        "z-ai/glm-5.3-flash",
+        "zai/glm-5.2-fast",
+        "zai/glm-5.3-flash"
+      ],
+      "providers": {
+        "llm_providers": [
+          "ai_gateway",
+          "openrouter"
+        ],
+        "search_providers": [
+          "exa",
+          "firecrawl",
+          "parallel",
+          "tavily"
+        ],
+        "models": [
+          "deepseek/deepseek-v3.2",
+          "deepseek/deepseek-v4-flash",
+          "deepseek/deepseek-v4-flash-0731",
+          "deepseek/deepseek-v4-pro",
+          "google/deepsearchqa",
+          "google/gemma-4-31B-turbo-TEE",
+          "google/gemma-4-31b-it",
+          "moonshotai/Kimi-K2.6-TEE",
+          "openai/gpt-oss",
+          "openai/gpt-oss-120b",
+          "openai/gpt-oss-20b",
+          "qwen/qwen3.5-397b-a17b",
+          "qwen/qwen3.6-27b",
+          "qwen/qwen3.8-27b",
+          "z-ai/glm-5",
+          "z-ai/glm-5.2",
+          "z-ai/glm-5.3-flash",
+          "zai/glm-5.2-fast",
+          "zai/glm-5.3-flash"
+        ]
+      },
+      "query_tag": "merged-hk6719",
+      "matched_at": "2026-09-13T14:18:13.166954+00:00",
+      "date": "2026-09-13T14:18:13.166954+00:00",
+      "status": "failed",
+      "submitted_at": "2026-09-13T14:19:50.425149+00:00",
+      "failed_at": "2026-09-14T06:15:59.868257+00:00"
+    },
+    {
+      "hotkey_name": "hk-67-20",
+      "hotkey_address": "5CakGfk8YkgKw3quRxcubw7UtCS7NwAvUGXsNyZuooyhKR7Z",
+      "subnet_uid": 195,
+      "wallet_name": "money",
+      "agent_filename": "uid-167__uid_167__artifact_180088ad-7562-4751-8f39-b71941b3fbf9.py",
+      "agent_name": "uid-167__uid_167__artifact_180088ad-7562-4751-8f39-b71941b3fbf9.py",
+      "agent_path": "/root/new1/new/merged/uid-167__uid_167__artifact_180088ad-7562-4751-8f39-b71941b3fbf9.py",
+      "agent_uid": "167",
+      "agent_uids": [
+        "167"
+      ],
+      "llm_providers": [
+        "ai_gateway",
+        "chutes",
+        "openrouter"
+      ],
+      "search_providers": [
+        "desearch",
+        "exa",
+        "firecrawl",
+        "parallel",
+        "tavily"
+      ],
+      "models": [
+        "deepseek/deepseek-v3.2",
+        "deepseek/deepseek-v4-flash",
+        "deepseek/deepseek-v4-flash-0731",
+        "deepseek/deepseek-v4-pro",
+        "google/gemma-4-31B-turbo-TEE",
+        "google/gemma-4-31b-it",
+        "moonshotai/Kimi-K2.6-TEE",
+        "openai/gpt-oss",
+        "openai/gpt-oss-120b",
+        "openai/gpt-oss-20b",
+        "qwen/qwen3.5-397b-a17b",
+        "qwen/qwen3.6-27b",
+        "qwen/qwen3.8-27b",
+        "z-ai/glm-5",
+        "z-ai/glm-5.2",
+        "z-ai/glm-5.3-flash",
+        "zai/glm-5.2-fast",
+        "zai/glm-5.3-flash"
+      ],
+      "providers": {
+        "llm_providers": [
+          "ai_gateway",
+          "chutes",
+          "openrouter"
+        ],
+        "search_providers": [
+          "desearch",
+          "exa",
+          "firecrawl",
+          "parallel",
+          "tavily"
+        ],
+        "models": [
+          "deepseek/deepseek-v3.2",
+          "deepseek/deepseek-v4-flash",
+          "deepseek/deepseek-v4-flash-0731",
+          "deepseek/deepseek-v4-pro",
+          "google/gemma-4-31B-turbo-TEE",
+          "google/gemma-4-31b-it",
+          "moonshotai/Kimi-K2.6-TEE",
+          "openai/gpt-oss",
+          "openai/gpt-oss-120b",
+          "openai/gpt-oss-20b",
+          "qwen/qwen3.5-397b-a17b",
+          "qwen/qwen3.6-27b",
+          "qwen/qwen3.8-27b",
+          "z-ai/glm-5",
+          "z-ai/glm-5.2",
+          "z-ai/glm-5.3-flash",
+          "zai/glm-5.2-fast",
+          "zai/glm-5.3-flash"
+        ]
+      },
+      "query_tag": "merged-hk6720",
+      "matched_at": "2026-09-13T14:18:13.270394+00:00",
+      "date": "2026-09-13T14:18:13.270394+00:00",
+      "status": "submitted",
+      "submitted_at": "2026-09-14T06:15:59.868257+00:00",
+      "failed_at": "2026-09-14T06:06:20.763840+00:00"
+    }
+  ],
+  "unused_agents": [
+    "uid-56__uid_56__artifact_0c13e4ab-5a81-4756-b72e-064c0b1e2de0.py",
+    "uid-173__uid_173__artifact_17db96c8-e2cc-416f-98d1-4e0376cfc94f.py",
+    "uid-14__uid_14__artifact_36946787-2c67-406e-abe0-480c42b49268.py",
+    "uid-132__uid_132__artifact_f919d92c-8531-40fc-91ee-2baacd3260b0.py",
+    "uid-68__uid_68__artifact_cea1edf0-20d9-4c52-b338-697c6026b814.py",
+    "uid-105__uid_105__artifact_63e1ef1e-ab65-4443-93da-75de335f7b9a.py",
+    "uid-83__uid_175__artifact_6f843e39-a9db-4e99-a1cb-2bc2ea641697.py",
+    "uid-90__uid_90__artifact_58b5761e-7cf1-4493-a303-cbb101396b8a.py"
+  ],
+  "selected_agents": [
+    "uid-242__uid_242__artifact_3e368f45-52cc-4c7b-aeca-d9f7600fc83e.py",
+    "uid-244__uid_75__artifact_f2604e05-1ff1-4861-84c8-97777d24d51c.py",
+    "uid-215__uid_215__artifact_71e5b61a-b49b-4ae3-b318-ac507564a9f4.py",
+    "uid-101__uid_101__artifact_e4fd858a-ed8c-4cce-a815-8577047c0b29.py",
+    "uid-6__uid_6__artifact_be04f22c-d14a-4478-b70e-78b3c8c5e86a.py",
+    "uid-206__uid_206__artifact_a1992dc4-4365-4e8e-9c8f-334e302087dc.py",
+    "/root/new1/new/top.py",
+    "uid-27__uid_27__artifact_69ee20b5-1b94-41fd-bbe6-9a4e9ade1b1a.py",
+    "uid-167__uid_167__artifact_180088ad-7562-4751-8f39-b71941b3fbf9.py",
+    "uid-80__uid_80__artifact_1afe2eb2-6a46-421a-a783-0f452958b816.py"
+  ],
+  "subnet_uid_note": "last-known from local history/maps for current wallet SS58; live UID can change",
+  "recorded_at": "2026-09-14T06:15:59.868257+00:00"
+}

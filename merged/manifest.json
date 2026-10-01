@@ -1,0 +1,1094 @@
+{
+  "built_at": "2026-09-13T14:13:19.948974+00:00",
+  "source": "/root/new1/new/harnyx-agents-17-2026-09-13T03-50-45",
+  "wrap": "/root/new1/new/top.py",
+  "count": 17,
+  "four_factory": 12,
+  "three_factory": 5,
+  "agents": [
+    {
+      "source": "uid-101__uid_101__artifact_e4fd858a-ed8c-4cce-a815-8577047c0b29.py",
+      "slots": {
+        "a": {
+          "factory": "_r4_fac_a",
+          "alias_of": null,
+          "source_agent": "_aeofzcflqc",
+          "source_factory": "_wuefiadyev",
+          "versions": [
+            "v52-pin-reviewed",
+            "c3-402"
+          ]
+        },
+        "b": {
+          "factory": "_r4_fac_b",
+          "alias_of": null,
+          "source_agent": "_ezskbjmxgj",
+          "source_factory": "_esglajwlcm",
+          "versions": [
+            "v52-pin-reviewed"
+          ]
+        },
+        "c": {
+          "factory": "_r4_fac_c",
+          "alias_of": null,
+          "source_agent": "_cjezfpmtgz",
+          "source_factory": "_ertjwdbeaw",
+          "versions": [
+            "ours-v16"
+          ]
+        },
+        "d": {
+          "factory": "_r4_fac_d",
+          "alias_of": null,
+          "source_agent": "_hsiehalevw",
+          "source_factory": "_qgdexvwcyf",
+          "versions": []
+        }
+      },
+      "distinct_factories": 4,
+      "route": {
+        "fast": [
+          "_cjezfpmtgz",
+          "_aeofzcflqc"
+        ],
+        "i0": [
+          "_aeofzcflqc",
+          "_ezskbjmxgj"
+        ],
+        "i1": [
+          "_ezskbjmxgj",
+          "_cjezfpmtgz"
+        ],
+        "i2": [
+          "_cjezfpmtgz",
+          "_hsiehalevw"
+        ]
+      },
+      "output": "uid-101__uid_101__artifact_e4fd858a-ed8c-4cce-a815-8577047c0b29.py",
+      "lines": 11531,
+      "bytes": 660251
+    },
+    {
+      "source": "uid-105__uid_105__artifact_63e1ef1e-ab65-4443-93da-75de335f7b9a.py",
+      "slots": {
+        "a": {
+          "factory": "_r4_fac_a",
+          "alias_of": null,
+          "source_agent": "_qdkoajmoyv",
+          "source_factory": "_vmbnexgboz",
+          "versions": [
+            "v52-pin-reviewed",
+            "f2e-423"
+          ]
+        },
+        "b": {
+          "factory": "_r4_fac_b",
+          "alias_of": null,
+          "source_agent": "_vuppzfzvhs",
+          "source_factory": "_osqdqdandg",
+          "versions": [
+            "v52-pin-reviewed",
+            "w5-anchor-board-1"
+          ]
+        },
+        "c": {
+          "factory": "_r4_fac_c",
+          "alias_of": null,
+          "source_agent": "_kbtzfcoxdt",
+          "source_factory": "_pgzflvmwlp",
+          "versions": [
+            "ours-v24"
+          ]
+        },
+        "d": {
+          "factory": "_r4_fac_a",
+          "alias_of": "a",
+          "source_agent": "_qdkoajmoyv",
+          "source_factory": "_vmbnexgboz",
+          "versions": [
+            "v52-pin-reviewed",
+            "f2e-423"
+          ]
+        }
+      },
+      "distinct_factories": 3,
+      "route": {
+        "fast": [
+          "_kbtzfcoxdt",
+          "_qdkoajmoyv"
+        ],
+        "i0": [
+          "_qdkoajmoyv",
+          "_vuppzfzvhs"
+        ],
+        "i1": [
+          "_vuppzfzvhs",
+          "_kbtzfcoxdt"
+        ],
+        "i2": [
+          "_kbtzfcoxdt",
+          "_qdkoajmoyv"
+        ]
+      },
+      "output": "uid-105__uid_105__artifact_63e1ef1e-ab65-4443-93da-75de335f7b9a.py",
+      "lines": 10150,
+      "bytes": 572628
+    },
+    {
+      "source": "uid-132__uid_132__artifact_f919d92c-8531-40fc-91ee-2baacd3260b0.py",
+      "slots": {
+        "a": {
+          "factory": "_r4_fac_a",
+          "alias_of": null,
+          "source_agent": "_dqmuapwwqq",
+          "source_factory": "_losnsyksda",
+          "versions": [
+            "v52-pin-reviewed",
+            "c5-421"
+          ]
+        },
+        "b": {
+          "factory": "_r4_fac_b",
+          "alias_of": null,
+          "source_agent": "_tunbxaznkp",
+          "source_factory": "_kzhlxmqmvm",
+          "versions": [
+            "v52-pin-reviewed"
+          ]
+        },
+        "c": {
+          "factory": "_r4_fac_c",
+          "alias_of": null,
+          "source_agent": "_yjbfyqjsao",
+          "source_factory": "_pjhgjsvuog",
+          "versions": [
+            "ours-v14"
+          ]
+        },
+        "d": {
+          "factory": "_r4_fac_d",
+          "alias_of": null,
+          "source_agent": "_vctbztvrdh",
+          "source_factory": "_uvyopkcqnb",
+          "versions": [
+            "v260-15-rhsc"
+          ]
+        }
+      },
+      "distinct_factories": 4,
+      "route": {
+        "fast": [
+          "_yjbfyqjsao",
+          "_dqmuapwwqq"
+        ],
+        "i0": [
+          "_dqmuapwwqq",
+          "_tunbxaznkp"
+        ],
+        "i1": [
+          "_tunbxaznkp",
+          "_yjbfyqjsao"
+        ],
+        "i2": [
+          "_yjbfyqjsao",
+          "_vctbztvrdh"
+        ]
+      },
+      "output": "uid-132__uid_132__artifact_f919d92c-8531-40fc-91ee-2baacd3260b0.py",
+      "lines": 11209,
+      "bytes": 649407
+    },
+    {
+      "source": "uid-14__uid_14__artifact_36946787-2c67-406e-abe0-480c42b49268.py",
+      "slots": {
+        "a": {
+          "factory": "_r4_fac_a",
+          "alias_of": null,
+          "source_agent": "_xclqbezcoj",
+          "source_factory": "_liruczhyvm",
+          "versions": [
+            "v52-pin-reviewed",
+            "c3-405"
+          ]
+        },
+        "b": {
+          "factory": "_r4_fac_b",
+          "alias_of": null,
+          "source_agent": "_xhbstqeszp",
+          "source_factory": "_jxkzzmppcv",
+          "versions": [
+            "v52-pin-reviewed",
+            "w5-anchor-board-1"
+          ]
+        },
+        "c": {
+          "factory": "_r4_fac_c",
+          "alias_of": null,
+          "source_agent": "_efaivvvtmi",
+          "source_factory": "_fwogxdqzhk",
+          "versions": [
+            "grid-v4"
+          ]
+        },
+        "d": {
+          "factory": "_r4_fac_a",
+          "alias_of": "a",
+          "source_agent": "_xclqbezcoj",
+          "source_factory": "_liruczhyvm",
+          "versions": [
+            "v52-pin-reviewed",
+            "c3-405"
+          ]
+        }
+      },
+      "distinct_factories": 3,
+      "route": {
+        "fast": [
+          "_efaivvvtmi",
+          "_xclqbezcoj"
+        ],
+        "i0": [
+          "_xclqbezcoj",
+          "_xhbstqeszp"
+        ],
+        "i1": [
+          "_xhbstqeszp",
+          "_efaivvvtmi"
+        ],
+        "i2": [
+          "_efaivvvtmi",
+          "_xclqbezcoj"
+        ]
+      },
+      "output": "uid-14__uid_14__artifact_36946787-2c67-406e-abe0-480c42b49268.py",
+      "lines": 10993,
+      "bytes": 614200
+    },
+    {
+      "source": "uid-167__uid_167__artifact_180088ad-7562-4751-8f39-b71941b3fbf9.py",
+      "slots": {
+        "a": {
+          "factory": "_r4_fac_a",
+          "alias_of": null,
+          "source_agent": "_rktlbnjbol",
+          "source_factory": "_xikgsdrtrb",
+          "versions": [
+            "v53-claim-board",
+            "c3-405"
+          ]
+        },
+        "b": {
+          "factory": "_r4_fac_b",
+          "alias_of": null,
+          "source_agent": "_qvgbktnoxa",
+          "source_factory": "_knwindggvn",
+          "versions": [
+            "v52-pin-reviewed"
+          ]
+        },
+        "c": {
+          "factory": "_r4_fac_c",
+          "alias_of": null,
+          "source_agent": "_dyucfanzyz",
+          "source_factory": "_obwvlzcrfb",
+          "versions": [
+            "ours-v16"
+          ]
+        },
+        "d": {
+          "factory": "_r4_fac_d",
+          "alias_of": null,
+          "source_agent": "_fahidjhgur",
+          "source_factory": "_wurimhkhxv",
+          "versions": [
+            "v270-7-svac"
+          ]
+        }
+      },
+      "distinct_factories": 4,
+      "route": {
+        "fast": [
+          "_dyucfanzyz",
+          "_rktlbnjbol"
+        ],
+        "i0": [
+          "_rktlbnjbol",
+          "_qvgbktnoxa"
+        ],
+        "i1": [
+          "_qvgbktnoxa",
+          "_dyucfanzyz"
+        ],
+        "i2": [
+          "_dyucfanzyz",
+          "_fahidjhgur"
+        ]
+      },
+      "output": "uid-167__uid_167__artifact_180088ad-7562-4751-8f39-b71941b3fbf9.py",
+      "lines": 11128,
+      "bytes": 648597
+    },
+    {
+      "source": "uid-173__uid_173__artifact_17db96c8-e2cc-416f-98d1-4e0376cfc94f.py",
+      "slots": {
+        "a": {
+          "factory": "_r4_fac_a",
+          "alias_of": null,
+          "source_agent": "_qeybkhkmwp",
+          "source_factory": "_eztjzaqosc",
+          "versions": [
+            "v52-pin-reviewed",
+            "c4-410"
+          ]
+        },
+        "b": {
+          "factory": "_r4_fac_b",
+          "alias_of": null,
+          "source_agent": "_vehnyreuor",
+          "source_factory": "_cjcmoagnvt",
+          "versions": [
+            "v52-pin-reviewed"
+          ]
+        },
+        "c": {
+          "factory": "_r4_fac_c",
+          "alias_of": null,
+          "source_agent": "_zphwycurto",
+          "source_factory": "_abtejylqmh",
+          "versions": [
+            "grid-v6"
+          ]
+        },
+        "d": {
+          "factory": "_r4_fac_a",
+          "alias_of": "a",
+          "source_agent": "_qeybkhkmwp",
+          "source_factory": "_eztjzaqosc",
+          "versions": [
+            "v52-pin-reviewed",
+            "c4-410"
+          ]
+        }
+      },
+      "distinct_factories": 3,
+      "route": {
+        "fast": [
+          "_zphwycurto",
+          "_qeybkhkmwp"
+        ],
+        "i0": [
+          "_qeybkhkmwp",
+          "_vehnyreuor"
+        ],
+        "i1": [
+          "_vehnyreuor",
+          "_zphwycurto"
+        ],
+        "i2": [
+          "_zphwycurto",
+          "_qeybkhkmwp"
+        ]
+      },
+      "output": "uid-173__uid_173__artifact_17db96c8-e2cc-416f-98d1-4e0376cfc94f.py",
+      "lines": 9163,
+      "bytes": 534868
+    },
+    {
+      "source": "uid-206__uid_206__artifact_a1992dc4-4365-4e8e-9c8f-334e302087dc.py",
+      "slots": {
+        "a": {
+          "factory": "_r4_fac_a",
+          "alias_of": null,
+          "source_agent": "_ziuttcwelv",
+          "source_factory": "_pzmcbmgiwh",
+          "versions": [
+            "v52-pin-reviewed",
+            "c3-402"
+          ]
+        },
+        "b": {
+          "factory": "_r4_fac_b",
+          "alias_of": null,
+          "source_agent": "_ybaiufjdmh",
+          "source_factory": "_twswlifwve",
+          "versions": [
+            "v52-pin-reviewed",
+            "w5-anchor-board-1"
+          ]
+        },
+        "c": {
+          "factory": "_r4_fac_c",
+          "alias_of": null,
+          "source_agent": "_bnxknmatxl",
+          "source_factory": "_yejufbofga",
+          "versions": [
+            "ours-v22"
+          ]
+        },
+        "d": {
+          "factory": "_r4_fac_a",
+          "alias_of": "a",
+          "source_agent": "_ziuttcwelv",
+          "source_factory": "_pzmcbmgiwh",
+          "versions": [
+            "v52-pin-reviewed",
+            "c3-402"
+          ]
+        }
+      },
+      "distinct_factories": 3,
+      "route": {
+        "fast": [
+          "_bnxknmatxl",
+          "_ziuttcwelv"
+        ],
+        "i0": [
+          "_ziuttcwelv",
+          "_ybaiufjdmh"
+        ],
+        "i1": [
+          "_ybaiufjdmh",
+          "_bnxknmatxl"
+        ],
+        "i2": [
+          "_bnxknmatxl",
+          "_ziuttcwelv"
+        ]
+      },
+      "output": "uid-206__uid_206__artifact_a1992dc4-4365-4e8e-9c8f-334e302087dc.py",
+      "lines": 10429,
+      "bytes": 588071
+    },
+    {
+      "source": "uid-215__uid_215__artifact_71e5b61a-b49b-4ae3-b318-ac507564a9f4.py",
+      "slots": {
+        "a": {
+          "factory": "_r4_fac_a",
+          "alias_of": null,
+          "source_agent": "_xtxzhortmz",
+          "source_factory": "_rrsvgxqsuk",
+          "versions": [
+            "v52-pin-reviewed",
+            "c3-401"
+          ]
+        },
+        "b": {
+          "factory": "_r4_fac_b",
+          "alias_of": null,
+          "source_agent": "_jvsmqieshs",
+          "source_factory": "_fzajdnouru",
+          "versions": [
+            "v52-pin-reviewed",
+            "w5-anchor-board-1"
+          ]
+        },
+        "c": {
+          "factory": "_r4_fac_c",
+          "alias_of": null,
+          "source_agent": "_jxydgdnojp",
+          "source_factory": "_xwvfgymhnb",
+          "versions": [
+            "grid-v6"
+          ]
+        },
+        "d": {
+          "factory": "_r4_fac_a",
+          "alias_of": "a",
+          "source_agent": "_xtxzhortmz",
+          "source_factory": "_rrsvgxqsuk",
+          "versions": [
+            "v52-pin-reviewed",
+            "c3-401"
+          ]
+        }
+      },
+      "distinct_factories": 3,
+      "route": {
+        "fast": [
+          "_jxydgdnojp",
+          "_xtxzhortmz"
+        ],
+        "i0": [
+          "_xtxzhortmz",
+          "_jvsmqieshs"
+        ],
+        "i1": [
+          "_jvsmqieshs",
+          "_jxydgdnojp"
+        ],
+        "i2": [
+          "_jxydgdnojp",
+          "_xtxzhortmz"
+        ]
+      },
+      "output": "uid-215__uid_215__artifact_71e5b61a-b49b-4ae3-b318-ac507564a9f4.py",
+      "lines": 10750,
+      "bytes": 601172
+    },
+    {
+      "source": "uid-242__uid_242__artifact_3e368f45-52cc-4c7b-aeca-d9f7600fc83e.py",
+      "slots": {
+        "a": {
+          "factory": "_r4_fac_a",
+          "alias_of": null,
+          "source_agent": "_hqmqgwbrlh",
+          "source_factory": "_wuiikdqwkj",
+          "versions": [
+            "v52-pin-reviewed",
+            "c4-415"
+          ]
+        },
+        "b": {
+          "factory": "_r4_fac_b",
+          "alias_of": null,
+          "source_agent": "_wezhomjaxi",
+          "source_factory": "_fimolwbdpr",
+          "versions": [
+            "v52-pin-reviewed"
+          ]
+        },
+        "c": {
+          "factory": "_r4_fac_c",
+          "alias_of": null,
+          "source_agent": "_layalzjcyo",
+          "source_factory": "_yhdjhdprrm",
+          "versions": [
+            "grid-v6"
+          ]
+        },
+        "d": {
+          "factory": "_r4_fac_d",
+          "alias_of": null,
+          "source_agent": "_ihrnxngiis",
+          "source_factory": "_riptotepfr",
+          "versions": []
+        }
+      },
+      "distinct_factories": 4,
+      "route": {
+        "fast": [
+          "_layalzjcyo",
+          "_hqmqgwbrlh"
+        ],
+        "i0": [
+          "_hqmqgwbrlh",
+          "_wezhomjaxi"
+        ],
+        "i1": [
+          "_wezhomjaxi",
+          "_layalzjcyo"
+        ],
+        "i2": [
+          "_layalzjcyo",
+          "_ihrnxngiis"
+        ]
+      },
+      "output": "uid-242__uid_242__artifact_3e368f45-52cc-4c7b-aeca-d9f7600fc83e.py",
+      "lines": 11550,
+      "bytes": 654262
+    },
+    {
+      "source": "uid-244__uid_75__artifact_f2604e05-1ff1-4861-84c8-97777d24d51c.py",
+      "slots": {
+        "a": {
+          "factory": "_r4_fac_a",
+          "alias_of": null,
+          "source_agent": "_bkahwjnmcb",
+          "source_factory": "_ljgjygjycl",
+          "versions": [
+            "v52-pin-reviewed",
+            "c4-410"
+          ]
+        },
+        "b": {
+          "factory": "_r4_fac_b",
+          "alias_of": null,
+          "source_agent": "_pgccebgxrm",
+          "source_factory": "_vbkdgigmcf",
+          "versions": [
+            "v52-pin-reviewed"
+          ]
+        },
+        "c": {
+          "factory": "_r4_fac_c",
+          "alias_of": null,
+          "source_agent": "_jurxevhsuc",
+          "source_factory": "_wfzatnvqpw",
+          "versions": [
+            "grid-v2"
+          ]
+        },
+        "d": {
+          "factory": "_r4_fac_d",
+          "alias_of": null,
+          "source_agent": "_bjiowytadj",
+          "source_factory": "_gfalahblmm",
+          "versions": []
+        }
+      },
+      "distinct_factories": 4,
+      "route": {
+        "fast": [
+          "_jurxevhsuc",
+          "_bkahwjnmcb"
+        ],
+        "i0": [
+          "_bkahwjnmcb",
+          "_pgccebgxrm"
+        ],
+        "i1": [
+          "_pgccebgxrm",
+          "_jurxevhsuc"
+        ],
+        "i2": [
+          "_jurxevhsuc",
+          "_bjiowytadj"
+        ]
+      },
+      "output": "uid-244__uid_75__artifact_f2604e05-1ff1-4861-84c8-97777d24d51c.py",
+      "lines": 11756,
+      "bytes": 664599
+    },
+    {
+      "source": "uid-27__uid_27__artifact_69ee20b5-1b94-41fd-bbe6-9a4e9ade1b1a.py",
+      "slots": {
+        "a": {
+          "factory": "_r4_fac_a",
+          "alias_of": null,
+          "source_agent": "_rpleddrvqn",
+          "source_factory": "_hhvunfuiqg",
+          "versions": [
+            "v52-pin-reviewed",
+            "p2-406"
+          ]
+        },
+        "b": {
+          "factory": "_r4_fac_b",
+          "alias_of": null,
+          "source_agent": "_vvuprimqtm",
+          "source_factory": "_edzrhdqvli",
+          "versions": [
+            "v52-pin-reviewed",
+            "w5-anchor-board-1"
+          ]
+        },
+        "c": {
+          "factory": "_r4_fac_c",
+          "alias_of": null,
+          "source_agent": "_gbbreeahya",
+          "source_factory": "_ipyceavplz",
+          "versions": [
+            "ours-v16"
+          ]
+        },
+        "d": {
+          "factory": "_r4_fac_d",
+          "alias_of": null,
+          "source_agent": "_gmjnlxsjlm",
+          "source_factory": "_etclauaoxd",
+          "versions": []
+        }
+      },
+      "distinct_factories": 4,
+      "route": {
+        "fast": [
+          "_gbbreeahya",
+          "_rpleddrvqn"
+        ],
+        "i0": [
+          "_rpleddrvqn",
+          "_vvuprimqtm"
+        ],
+        "i1": [
+          "_vvuprimqtm",
+          "_gbbreeahya"
+        ],
+        "i2": [
+          "_gbbreeahya",
+          "_gmjnlxsjlm"
+        ]
+      },
+      "output": "uid-27__uid_27__artifact_69ee20b5-1b94-41fd-bbe6-9a4e9ade1b1a.py",
+      "lines": 11995,
+      "bytes": 666751
+    },
+    {
+      "source": "uid-56__uid_56__artifact_0c13e4ab-5a81-4756-b72e-064c0b1e2de0.py",
+      "slots": {
+        "a": {
+          "factory": "_r4_fac_a",
+          "alias_of": null,
+          "source_agent": "_bglhjusxoz",
+          "source_factory": "_ixhcdrgcbn",
+          "versions": [
+            "v52-pin-reviewed",
+            "c5-403"
+          ]
+        },
+        "b": {
+          "factory": "_r4_fac_b",
+          "alias_of": null,
+          "source_agent": "_xoyvqxcqce",
+          "source_factory": "_qyokdxlqor",
+          "versions": [
+            "v52-pin-reviewed"
+          ]
+        },
+        "c": {
+          "factory": "_r4_fac_c",
+          "alias_of": null,
+          "source_agent": "_zzsrlvvubp",
+          "source_factory": "_emasuaffll",
+          "versions": [
+            "ours-v22"
+          ]
+        },
+        "d": {
+          "factory": "_r4_fac_d",
+          "alias_of": null,
+          "source_agent": "_wjnaakuldq",
+          "source_factory": "_kxvqkwytbx",
+          "versions": []
+        }
+      },
+      "distinct_factories": 4,
+      "route": {
+        "fast": [
+          "_zzsrlvvubp",
+          "_bglhjusxoz"
+        ],
+        "i0": [
+          "_bglhjusxoz",
+          "_xoyvqxcqce"
+        ],
+        "i1": [
+          "_xoyvqxcqce",
+          "_zzsrlvvubp"
+        ],
+        "i2": [
+          "_zzsrlvvubp",
+          "_wjnaakuldq"
+        ]
+      },
+      "output": "uid-56__uid_56__artifact_0c13e4ab-5a81-4756-b72e-064c0b1e2de0.py",
+      "lines": 11643,
+      "bytes": 665250
+    },
+    {
+      "source": "uid-68__uid_68__artifact_cea1edf0-20d9-4c52-b338-697c6026b814.py",
+      "slots": {
+        "a": {
+          "factory": "_r4_fac_a",
+          "alias_of": null,
+          "source_agent": "_doomdfzjao",
+          "source_factory": "_famncmxwhd",
+          "versions": [
+            "v52-pin-reviewed",
+            "c4-420"
+          ]
+        },
+        "b": {
+          "factory": "_r4_fac_b",
+          "alias_of": null,
+          "source_agent": "_eqqyxauhnm",
+          "source_factory": "_mdrwcdugly",
+          "versions": [
+            "v52-pin-reviewed"
+          ]
+        },
+        "c": {
+          "factory": "_r4_fac_c",
+          "alias_of": null,
+          "source_agent": "_wvuvisequc",
+          "source_factory": "_ypsoriprfl",
+          "versions": [
+            "ours-v19"
+          ]
+        },
+        "d": {
+          "factory": "_r4_fac_d",
+          "alias_of": null,
+          "source_agent": "_dwoxdnmvlt",
+          "source_factory": "_sixxzmkpgm",
+          "versions": []
+        }
+      },
+      "distinct_factories": 4,
+      "route": {
+        "fast": [
+          "_wvuvisequc",
+          "_doomdfzjao"
+        ],
+        "i0": [
+          "_doomdfzjao",
+          "_eqqyxauhnm"
+        ],
+        "i1": [
+          "_eqqyxauhnm",
+          "_wvuvisequc"
+        ],
+        "i2": [
+          "_wvuvisequc",
+          "_dwoxdnmvlt"
+        ]
+      },
+      "output": "uid-68__uid_68__artifact_cea1edf0-20d9-4c52-b338-697c6026b814.py",
+      "lines": 11461,
+      "bytes": 661061
+    },
+    {
+      "source": "uid-6__uid_6__artifact_be04f22c-d14a-4478-b70e-78b3c8c5e86a.py",
+      "slots": {
+        "a": {
+          "factory": "_r4_fac_a",
+          "alias_of": null,
+          "source_agent": "_nvvhfcpkxe",
+          "source_factory": "_iawyxltdrv",
+          "versions": [
+            "v52-pin-reviewed",
+            "c7-422"
+          ]
+        },
+        "b": {
+          "factory": "_r4_fac_b",
+          "alias_of": null,
+          "source_agent": "_jbqivxrlsn",
+          "source_factory": "_jpyniocdba",
+          "versions": [
+            "v52-pin-reviewed"
+          ]
+        },
+        "c": {
+          "factory": "_r4_fac_c",
+          "alias_of": null,
+          "source_agent": "_vlgehvdgck",
+          "source_factory": "_syflaspwsv",
+          "versions": [
+            "ours-v24"
+          ]
+        },
+        "d": {
+          "factory": "_r4_fac_d",
+          "alias_of": null,
+          "source_agent": "_kryfswmdia",
+          "source_factory": "_qunwkowmjj",
+          "versions": [
+            "v240-4-phzu"
+          ]
+        }
+      },
+      "distinct_factories": 4,
+      "route": {
+        "fast": [
+          "_vlgehvdgck",
+          "_nvvhfcpkxe"
+        ],
+        "i0": [
+          "_nvvhfcpkxe",
+          "_jbqivxrlsn"
+        ],
+        "i1": [
+          "_jbqivxrlsn",
+          "_vlgehvdgck"
+        ],
+        "i2": [
+          "_vlgehvdgck",
+          "_kryfswmdia"
+        ]
+      },
+      "output": "uid-6__uid_6__artifact_be04f22c-d14a-4478-b70e-78b3c8c5e86a.py",
+      "lines": 11648,
+      "bytes": 662896
+    },
+    {
+      "source": "uid-80__uid_80__artifact_1afe2eb2-6a46-421a-a783-0f452958b816.py",
+      "slots": {
+        "a": {
+          "factory": "_r4_fac_a",
+          "alias_of": null,
+          "source_agent": "_qydiapwinq",
+          "source_factory": "_lvwkbzwggu",
+          "versions": [
+            "v52-pin-reviewed",
+            "c5-406"
+          ]
+        },
+        "b": {
+          "factory": "_r4_fac_b",
+          "alias_of": null,
+          "source_agent": "_idvtsgianf",
+          "source_factory": "_cmvlfkaqle",
+          "versions": [
+            "v52-pin-reviewed",
+            "w5-anchor-board-1"
+          ]
+        },
+        "c": {
+          "factory": "_r4_fac_c",
+          "alias_of": null,
+          "source_agent": "_cemjijgepu",
+          "source_factory": "_pczylktshr",
+          "versions": [
+            "ours-v16"
+          ]
+        },
+        "d": {
+          "factory": "_r4_fac_d",
+          "alias_of": null,
+          "source_agent": "_lzgnordvxx",
+          "source_factory": "_qivawqinxi",
+          "versions": []
+        }
+      },
+      "distinct_factories": 4,
+      "route": {
+        "fast": [
+          "_cemjijgepu",
+          "_qydiapwinq"
+        ],
+        "i0": [
+          "_qydiapwinq",
+          "_idvtsgianf"
+        ],
+        "i1": [
+          "_idvtsgianf",
+          "_cemjijgepu"
+        ],
+        "i2": [
+          "_cemjijgepu",
+          "_lzgnordvxx"
+        ]
+      },
+      "output": "uid-80__uid_80__artifact_1afe2eb2-6a46-421a-a783-0f452958b816.py",
+      "lines": 11747,
+      "bytes": 653455
+    },
+    {
+      "source": "uid-83__uid_175__artifact_6f843e39-a9db-4e99-a1cb-2bc2ea641697.py",
+      "slots": {
+        "a": {
+          "factory": "_r4_fac_a",
+          "alias_of": null,
+          "source_agent": "_pszofbwvkw",
+          "source_factory": "_jddetuqnra",
+          "versions": [
+            "v52-pin-reviewed",
+            "c5-406"
+          ]
+        },
+        "b": {
+          "factory": "_r4_fac_b",
+          "alias_of": null,
+          "source_agent": "_gkylyuogit",
+          "source_factory": "_nzpalnnrow",
+          "versions": [
+            "v52-pin-reviewed"
+          ]
+        },
+        "c": {
+          "factory": "_r4_fac_c",
+          "alias_of": null,
+          "source_agent": "_pytxkmudmd",
+          "source_factory": "_jhehxzpiij",
+          "versions": [
+            "rubric-v2"
+          ]
+        },
+        "d": {
+          "factory": "_r4_fac_d",
+          "alias_of": null,
+          "source_agent": "_pvxcplladd",
+          "source_factory": "_soptokbcvt",
+          "versions": []
+        }
+      },
+      "distinct_factories": 4,
+      "route": {
+        "fast": [
+          "_pytxkmudmd",
+          "_pszofbwvkw"
+        ],
+        "i0": [
+          "_pszofbwvkw",
+          "_gkylyuogit"
+        ],
+        "i1": [
+          "_gkylyuogit",
+          "_pytxkmudmd"
+        ],
+        "i2": [
+          "_pytxkmudmd",
+          "_pvxcplladd"
+        ]
+      },
+      "output": "uid-83__uid_175__artifact_6f843e39-a9db-4e99-a1cb-2bc2ea641697.py",
+      "lines": 11044,
+      "bytes": 635509
+    },
+    {
+      "source": "uid-90__uid_90__artifact_58b5761e-7cf1-4493-a303-cbb101396b8a.py",
+      "slots": {
+        "a": {
+          "factory": "_r4_fac_a",
+          "alias_of": null,
+          "source_agent": "_vwwzziywmn",
+          "source_factory": "_ociougodgf",
+          "versions": [
+            "v52-pin-reviewed",
+            "c4-416"
+          ]
+        },
+        "b": {
+          "factory": "_r4_fac_b",
+          "alias_of": null,
+          "source_agent": "_locyqgtcql",
+          "source_factory": "_hcvdyexwny",
+          "versions": [
+            "v52-pin-reviewed",
+            "w5-anchor-board-1"
+          ]
+        },
+        "c": {
+          "factory": "_r4_fac_c",
+          "alias_of": null,
+          "source_agent": "_yqtghspqwt",
+          "source_factory": "_plpppdaprp",
+          "versions": [
+            "ours-v14"
+          ]
+        },
+        "d": {
+          "factory": "_r4_fac_d",
+          "alias_of": null,
+          "source_agent": "_uylvmychru",
+          "source_factory": "_rztcxnmioy",
+          "versions": [
+            "v230-2-fdlq"
+          ]
+        }
+      },
+      "distinct_factories": 4,
+      "route": {
+        "fast": [
+          "_yqtghspqwt",
+          "_vwwzziywmn"
+        ],
+        "i0": [
+          "_vwwzziywmn",
+          "_locyqgtcql"
+        ],
+        "i1": [
+          "_locyqgtcql",
+          "_yqtghspqwt"
+        ],
+        "i2": [
+          "_yqtghspqwt",
+          "_uylvmychru"
+        ]
+      },
+      "output": "uid-90__uid_90__artifact_58b5761e-7cf1-4493-a303-cbb101396b8a.py",
+      "lines": 11613,
+      "bytes": 664315
+    }
+  ]
+}

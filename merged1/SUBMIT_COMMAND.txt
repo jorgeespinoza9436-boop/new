@@ -1,0 +1,1 @@
+bash /root/new1/new/merged1/submit_all.sh 8

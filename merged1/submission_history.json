@@ -1,0 +1,513 @@
+{
+  "batch": "new1-new-merged1",
+  "created_at": "2026-09-14T06:39:20.569200+00:00",
+  "wallet_name": "money",
+  "netuid": 67,
+  "match_seed": 202609140638,
+  "match_mode": "registered_unsubmitted_random",
+  "agent_dir": "/root/new1/new/merged1",
+  "source": "https://taostats.io/subnets/67/metagraph coldkey=5GYRZNMpLdJPyvzrDLLARRTwHSpZUwfCEAirXwWiAx4A9X9s",
+  "unsubmitted_source": "http://127.0.0.1:5189/api/my-agents",
+  "agent_count": 20,
+  "registered_unsubmitted_count": 7,
+  "matched_count": 7,
+  "unused_agent_count": 13,
+  "matches": [
+    {
+      "hotkey_name": "hk-67-21",
+      "hotkey_address": "5Fuy17yC3JYga3cZhta2ceGwkDBRsg87mhcvnK6Lin19ESsK",
+      "subnet_uid": 99,
+      "wallet_name": "money",
+      "agent_filename": "uid-32__uid_32__artifact_bc0d68c4-516d-4406-8977-90bd4c4d363e.py",
+      "agent_name": "uid-32__uid_32__artifact_bc0d68c4-516d-4406-8977-90bd4c4d363e.py",
+      "agent_path": "/root/new1/new/merged1/uid-32__uid_32__artifact_bc0d68c4-516d-4406-8977-90bd4c4d363e.py",
+      "agent_uid": "32",
+      "agent_uids": [
+        "32"
+      ],
+      "llm_providers": [
+        "openrouter"
+      ],
+      "search_providers": [
+        "exa",
+        "firecrawl",
+        "parallel",
+        "tavily"
+      ],
+      "models": [
+        "deepseek/deepseek-v3.2",
+        "openai/gpt-oss",
+        "openai/gpt-oss-120b",
+        "z-ai/glm-5",
+        "z-ai/glm-5.2",
+        "z-ai/glm-5.3-flash"
+      ],
+      "providers": {
+        "llm_providers": [
+          "openrouter"
+        ],
+        "search_providers": [
+          "exa",
+          "firecrawl",
+          "parallel",
+          "tavily"
+        ],
+        "models": [
+          "deepseek/deepseek-v3.2",
+          "openai/gpt-oss",
+          "openai/gpt-oss-120b",
+          "z-ai/glm-5",
+          "z-ai/glm-5.2",
+          "z-ai/glm-5.3-flash"
+        ]
+      },
+      "query_tag": "merged1-hk6721",
+      "matched_at": "2026-09-14T06:39:20.703765+00:00",
+      "date": "2026-09-14T06:39:20.703765+00:00",
+      "status": "failed",
+      "failed_at": "2026-09-14T06:44:25.765042+00:00"
+    },
+    {
+      "hotkey_name": "hk-67-22",
+      "hotkey_address": "5CtDxfrph8mvH48Pvbjbvvj3m1prBAPEzCNdaLhepgstfNFW",
+      "subnet_uid": 139,
+      "wallet_name": "money",
+      "agent_filename": "uid-15__uid_189__artifact_808a5843-b4dc-4b7a-adf6-6630c3d47325.py",
+      "agent_name": "uid-15__uid_189__artifact_808a5843-b4dc-4b7a-adf6-6630c3d47325.py",
+      "agent_path": "/root/new1/new/merged1/uid-15__uid_189__artifact_808a5843-b4dc-4b7a-adf6-6630c3d47325.py",
+      "agent_uid": "15",
+      "agent_uids": [
+        "15",
+        "189"
+      ],
+      "llm_providers": [
+        "ai_gateway",
+        "openrouter"
+      ],
+      "search_providers": [
+        "desearch",
+        "exa",
+        "firecrawl",
+        "parallel",
+        "tavily"
+      ],
+      "models": [
+        "deepseek/deepseek-v3.2",
+        "google/gemma-4-31b-it",
+        "openai/gpt-oss",
+        "openai/gpt-oss-120b",
+        "z-ai/glm-5",
+        "z-ai/glm-5.2",
+        "z-ai/glm-5.3-flash",
+        "zai/glm-5.3-flash"
+      ],
+      "providers": {
+        "llm_providers": [
+          "ai_gateway",
+          "openrouter"
+        ],
+        "search_providers": [
+          "desearch",
+          "exa",
+          "firecrawl",
+          "parallel",
+          "tavily"
+        ],
+        "models": [
+          "deepseek/deepseek-v3.2",
+          "google/gemma-4-31b-it",
+          "openai/gpt-oss",
+          "openai/gpt-oss-120b",
+          "z-ai/glm-5",
+          "z-ai/glm-5.2",
+          "z-ai/glm-5.3-flash",
+          "zai/glm-5.3-flash"
+        ]
+      },
+      "query_tag": "merged1-hk6722",
+      "matched_at": "2026-09-14T06:39:20.569826+00:00",
+      "date": "2026-09-14T06:39:20.569826+00:00",
+      "status": "failed",
+      "failed_at": "2026-09-14T06:44:25.765042+00:00"
+    },
+    {
+      "hotkey_name": "hk-67-24",
+      "hotkey_address": "5DPeLLKL4qKXL9rKH1Pzb8q5j35HM3eLWnHMVSfXYfPXVUeN",
+      "subnet_uid": 8,
+      "wallet_name": "money",
+      "agent_filename": "uid-248__uid_248__artifact_9ff0ab52-9858-4288-ab10-bf0ccd8300d9.py",
+      "agent_name": "uid-248__uid_248__artifact_9ff0ab52-9858-4288-ab10-bf0ccd8300d9.py",
+      "agent_path": "/root/new1/new/merged1/uid-248__uid_248__artifact_9ff0ab52-9858-4288-ab10-bf0ccd8300d9.py",
+      "agent_uid": "248",
+      "agent_uids": [
+        "248"
+      ],
+      "llm_providers": [
+        "ai_gateway",
+        "openrouter"
+      ],
+      "search_providers": [
+        "exa",
+        "firecrawl",
+        "parallel",
+        "tavily"
+      ],
+      "models": [
+        "deepseek/deepseek-v3.2",
+        "google/gemma-4-31b-it",
+        "openai/gpt-oss",
+        "openai/gpt-oss-120b",
+        "z-ai/glm-5",
+        "z-ai/glm-5.2",
+        "z-ai/glm-5.3-flash",
+        "zai/glm-5.3-flash"
+      ],
+      "providers": {
+        "llm_providers": [
+          "ai_gateway",
+          "openrouter"
+        ],
+        "search_providers": [
+          "exa",
+          "firecrawl",
+          "parallel",
+          "tavily"
+        ],
+        "models": [
+          "deepseek/deepseek-v3.2",
+          "google/gemma-4-31b-it",
+          "openai/gpt-oss",
+          "openai/gpt-oss-120b",
+          "z-ai/glm-5",
+          "z-ai/glm-5.2",
+          "z-ai/glm-5.3-flash",
+          "zai/glm-5.3-flash"
+        ]
+      },
+      "query_tag": "merged1-hk6724",
+      "matched_at": "2026-09-14T06:39:20.667605+00:00",
+      "date": "2026-09-14T06:39:20.667605+00:00",
+      "status": "submitted",
+      "failed_at": "2026-09-14T06:40:27.323958+00:00",
+      "submitted_at": "2026-09-14T06:44:20.733815Z",
+      "submit_result": {
+        "uid": 8,
+        "artifact_id": "b665d022-529c-4468-b81f-2a748927f2c1",
+        "content_hash": "62fbde8593a474edb5caac2401b0da6180710a357ca59e161f373c4cd31cb102",
+        "size_bytes": 611149,
+        "submitted_at": "2026-09-14T06:44:20.733815Z"
+      },
+      "artifact_id": "b665d022-529c-4468-b81f-2a748927f2c1",
+      "content_hash": "62fbde8593a474edb5caac2401b0da6180710a357ca59e161f373c4cd31cb102"
+    },
+    {
+      "hotkey_name": "hk-67-25",
+      "hotkey_address": "5EFWj4UjDg7o7yJhv9WAGC7AhfAHj6oED8VYdJW9qZ342w6E",
+      "subnet_uid": 89,
+      "wallet_name": "money",
+      "agent_filename": "uid-203__uid_84__artifact_e54ca919-bc43-4f6d-9419-5b00f8bad818.py",
+      "agent_name": "uid-203__uid_84__artifact_e54ca919-bc43-4f6d-9419-5b00f8bad818.py",
+      "agent_path": "/root/new1/new/merged1/uid-203__uid_84__artifact_e54ca919-bc43-4f6d-9419-5b00f8bad818.py",
+      "agent_uid": "203",
+      "agent_uids": [
+        "203",
+        "84"
+      ],
+      "llm_providers": [
+        "chutes",
+        "openrouter"
+      ],
+      "search_providers": [
+        "desearch",
+        "exa",
+        "firecrawl",
+        "parallel",
+        "tavily"
+      ],
+      "models": [
+        "deepseek/deepseek-v3.2",
+        "google/gemma-4-31B-turbo-TEE",
+        "moonshotai/Kimi-K2.6-TEE",
+        "openai/gpt-oss",
+        "openai/gpt-oss-120b",
+        "qwen/qwen3.6-27b",
+        "z-ai/glm-5",
+        "z-ai/glm-5.2",
+        "z-ai/glm-5.3-flash"
+      ],
+      "providers": {
+        "llm_providers": [
+          "chutes",
+          "openrouter"
+        ],
+        "search_providers": [
+          "desearch",
+          "exa",
+          "firecrawl",
+          "parallel",
+          "tavily"
+        ],
+        "models": [
+          "deepseek/deepseek-v3.2",
+          "google/gemma-4-31B-turbo-TEE",
+          "moonshotai/Kimi-K2.6-TEE",
+          "openai/gpt-oss",
+          "openai/gpt-oss-120b",
+          "qwen/qwen3.6-27b",
+          "z-ai/glm-5",
+          "z-ai/glm-5.2",
+          "z-ai/glm-5.3-flash"
+        ]
+      },
+      "query_tag": "merged1-hk6725",
+      "matched_at": "2026-09-14T06:39:20.746541+00:00",
+      "date": "2026-09-14T06:39:20.746541+00:00",
+      "status": "failed",
+      "failed_at": "2026-09-14T06:44:25.765042+00:00"
+    },
+    {
+      "hotkey_name": "hk-67-26",
+      "hotkey_address": "5CGD4DPXwqvVBvVbWFaT9JfXRmmQCpDao9P3VEL4RzSuRUhs",
+      "subnet_uid": 49,
+      "wallet_name": "money",
+      "agent_filename": "uid-97__uid_97__artifact_b6f9e8e7-ce8f-436c-bd4e-34006bbebed4.py",
+      "agent_name": "uid-97__uid_97__artifact_b6f9e8e7-ce8f-436c-bd4e-34006bbebed4.py",
+      "agent_path": "/root/new1/new/merged1/uid-97__uid_97__artifact_b6f9e8e7-ce8f-436c-bd4e-34006bbebed4.py",
+      "agent_uid": "97",
+      "agent_uids": [
+        "97"
+      ],
+      "llm_providers": [
+        "chutes",
+        "openrouter"
+      ],
+      "search_providers": [
+        "desearch",
+        "exa",
+        "firecrawl",
+        "parallel",
+        "tavily"
+      ],
+      "models": [
+        "deepseek/deepseek-v3.2",
+        "google/gemma-4-31B-turbo-TEE",
+        "google/gemma-4-31b-it",
+        "moonshotai/Kimi-K2.6-TEE",
+        "openai/gpt-oss",
+        "openai/gpt-oss-120b",
+        "qwen/qwen3.6-27b",
+        "z-ai/glm-5",
+        "z-ai/glm-5.2",
+        "z-ai/glm-5.3-flash"
+      ],
+      "providers": {
+        "llm_providers": [
+          "chutes",
+          "openrouter"
+        ],
+        "search_providers": [
+          "desearch",
+          "exa",
+          "firecrawl",
+          "parallel",
+          "tavily"
+        ],
+        "models": [
+          "deepseek/deepseek-v3.2",
+          "google/gemma-4-31B-turbo-TEE",
+          "google/gemma-4-31b-it",
+          "moonshotai/Kimi-K2.6-TEE",
+          "openai/gpt-oss",
+          "openai/gpt-oss-120b",
+          "qwen/qwen3.6-27b",
+          "z-ai/glm-5",
+          "z-ai/glm-5.2",
+          "z-ai/glm-5.3-flash"
+        ]
+      },
+      "query_tag": "merged1-hk6726",
+      "matched_at": "2026-09-14T06:39:20.881808+00:00",
+      "date": "2026-09-14T06:39:20.881808+00:00",
+      "status": "failed",
+      "failed_at": "2026-09-14T06:44:25.765042+00:00"
+    },
+    {
+      "hotkey_name": "hk-67-27",
+      "hotkey_address": "5Gk3KZBrLN9MpZYMy5zhEf2m5EAEHwo1wQWZvrgbF78zjU8n",
+      "subnet_uid": 93,
+      "wallet_name": "money",
+      "agent_filename": "uid-60__uid_60__artifact_f9892e28-f1e5-4b23-9435-8b5c3049f0eb.py",
+      "agent_name": "uid-60__uid_60__artifact_f9892e28-f1e5-4b23-9435-8b5c3049f0eb.py",
+      "agent_path": "/root/new1/new/merged1/uid-60__uid_60__artifact_f9892e28-f1e5-4b23-9435-8b5c3049f0eb.py",
+      "agent_uid": "60",
+      "agent_uids": [
+        "60"
+      ],
+      "llm_providers": [
+        "ai_gateway",
+        "openrouter"
+      ],
+      "search_providers": [
+        "desearch",
+        "exa",
+        "firecrawl",
+        "parallel",
+        "tavily"
+      ],
+      "models": [
+        "deepseek/deepseek-v3.2",
+        "google/gemma-4-31b-it",
+        "openai/gpt-oss",
+        "openai/gpt-oss-120b",
+        "z-ai/glm-5",
+        "z-ai/glm-5.2",
+        "z-ai/glm-5.3-flash",
+        "zai/glm-5.2-fast"
+      ],
+      "providers": {
+        "llm_providers": [
+          "ai_gateway",
+          "openrouter"
+        ],
+        "search_providers": [
+          "desearch",
+          "exa",
+          "firecrawl",
+          "parallel",
+          "tavily"
+        ],
+        "models": [
+          "deepseek/deepseek-v3.2",
+          "google/gemma-4-31b-it",
+          "openai/gpt-oss",
+          "openai/gpt-oss-120b",
+          "z-ai/glm-5",
+          "z-ai/glm-5.2",
+          "z-ai/glm-5.3-flash",
+          "zai/glm-5.2-fast"
+        ]
+      },
+      "query_tag": "merged1-hk6727",
+      "matched_at": "2026-09-14T06:39:20.815114+00:00",
+      "date": "2026-09-14T06:39:20.815114+00:00",
+      "status": "failed",
+      "failed_at": "2026-09-14T06:44:25.765042+00:00"
+    },
+    {
+      "hotkey_name": "hk-67-28",
+      "hotkey_address": "5Dk3SEN97iQzkjsQks55PB2JoNAnU9FiCdWw4dWXShdjX6M1",
+      "subnet_uid": 121,
+      "wallet_name": "money",
+      "agent_filename": "uid-37__uid_111__artifact_38a36678-352d-4ff7-b5f3-c83335242441.py",
+      "agent_name": "uid-37__uid_111__artifact_38a36678-352d-4ff7-b5f3-c83335242441.py",
+      "agent_path": "/root/new1/new/merged1/uid-37__uid_111__artifact_38a36678-352d-4ff7-b5f3-c83335242441.py",
+      "agent_uid": "37",
+      "agent_uids": [
+        "37",
+        "111"
+      ],
+      "llm_providers": [
+        "ai_gateway",
+        "openrouter"
+      ],
+      "search_providers": [
+        "desearch",
+        "exa",
+        "firecrawl",
+        "parallel",
+        "tavily"
+      ],
+      "models": [
+        "deepseek/deepseek-v3.2",
+        "google/gemma-4-31b-it",
+        "openai/gpt-oss",
+        "openai/gpt-oss-120b",
+        "z-ai/glm-5",
+        "z-ai/glm-5.2",
+        "z-ai/glm-5.3-flash",
+        "zai/glm-5.3-flash"
+      ],
+      "providers": {
+        "llm_providers": [
+          "ai_gateway",
+          "openrouter"
+        ],
+        "search_providers": [
+          "desearch",
+          "exa",
+          "firecrawl",
+          "parallel",
+          "tavily"
+        ],
+        "models": [
+          "deepseek/deepseek-v3.2",
+          "google/gemma-4-31b-it",
+          "openai/gpt-oss",
+          "openai/gpt-oss-120b",
+          "z-ai/glm-5",
+          "z-ai/glm-5.2",
+          "z-ai/glm-5.3-flash",
+          "zai/glm-5.3-flash"
+        ]
+      },
+      "query_tag": "merged1-hk6728",
+      "matched_at": "2026-09-14T06:39:20.614682+00:00",
+      "date": "2026-09-14T06:39:20.614682+00:00",
+      "status": "failed",
+      "failed_at": "2026-09-14T06:44:25.765042+00:00"
+    }
+  ],
+  "unused_agents": [
+    "uid-157__uid_157__artifact_18e3722d-a064-4d56-ac6d-c2caa2a237d9.py",
+    "uid-189__uid_212__artifact_771e47e9-1aae-43f7-84e9-d9c8daff9ed4.py",
+    "uid-231__uid_231__artifact_609d7ab8-3500-4f46-9bbd-f0fa7a3df63a.py",
+    "uid-199__uid_73__artifact_ff327b56-4fda-4a64-9b84-86c93b203ad1.py",
+    "uid-138__uid_138__artifact_7c351a12-93cb-4fe7-9908-3a9aee7cd232.py",
+    "uid-111__uid_74__artifact_a3764f65-419e-480b-9a56-96b201955049.py",
+    "uid-136__uid_136__artifact_4df712c8-8e7e-4cc1-b1bf-a4795d4c2312.py",
+    "uid-95__uid_95__artifact_c186f97d-917a-403b-9450-4e110a10b757.py",
+    "uid-247__uid_247__artifact_40117bb6-dbbd-4d63-a240-dcdd3ad93213.py",
+    "uid-137__uid_137__artifact_88f84672-e511-4faa-8c22-a74c524870ee.py",
+    "uid-166__uid_166__artifact_77181a78-989e-419f-9f1b-8b4d6f9e3634.py",
+    "uid-169__uid_169__artifact_00e2547c-8410-42ca-93f4-653f3d7dec8f.py",
+    "uid-150__uid_150__artifact_006d010f-c514-4511-ae56-c1d4f6ca4874.py"
+  ],
+  "registered_unsubmitted": [
+    {
+      "hotkey_name": "hk-67-21",
+      "hotkey_address": "5Fuy17yC3JYga3cZhta2ceGwkDBRsg87mhcvnK6Lin19ESsK",
+      "subnet_uid": 99
+    },
+    {
+      "hotkey_name": "hk-67-22",
+      "hotkey_address": "5CtDxfrph8mvH48Pvbjbvvj3m1prBAPEzCNdaLhepgstfNFW",
+      "subnet_uid": 139
+    },
+    {
+      "hotkey_name": "hk-67-24",
+      "hotkey_address": "5DPeLLKL4qKXL9rKH1Pzb8q5j35HM3eLWnHMVSfXYfPXVUeN",
+      "subnet_uid": 8
+    },
+    {
+      "hotkey_name": "hk-67-25",
+      "hotkey_address": "5EFWj4UjDg7o7yJhv9WAGC7AhfAHj6oED8VYdJW9qZ342w6E",
+      "subnet_uid": 89
+    },
+    {
+      "hotkey_name": "hk-67-26",
+      "hotkey_address": "5CGD4DPXwqvVBvVbWFaT9JfXRmmQCpDao9P3VEL4RzSuRUhs",
+      "subnet_uid": 49
+    },
+    {
+      "hotkey_name": "hk-67-27",
+      "hotkey_address": "5Gk3KZBrLN9MpZYMy5zhEf2m5EAEHwo1wQWZvrgbF78zjU8n",
+      "subnet_uid": 93
+    },
+    {
+      "hotkey_name": "hk-67-28",
+      "hotkey_address": "5Dk3SEN97iQzkjsQks55PB2JoNAnU9FiCdWw4dWXShdjX6M1",
+      "subnet_uid": 121
+    }
+  ],
+  "recorded_at": "2026-09-14T06:44:25.765042+00:00"
+}

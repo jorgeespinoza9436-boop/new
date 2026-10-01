@@ -1,0 +1,24 @@
+[START] hk-67-4 <- uid-90__uid_90__artifact_58b5761e-7cf1-4493-a303-cbb101396b8a.py
+[START] hk-67-5 <- uid-132__uid_132__artifact_f919d92c-8531-40fc-91ee-2baacd3260b0.py
+[START] hk-67-27 <- uid-83__uid_175__artifact_6f843e39-a9db-4e99-a1cb-2bc2ea641697.py
+[START] hk-67-28 <- uid-14__uid_14__artifact_36946787-2c67-406e-abe0-480c42b49268.py
+[START] hk-67-30 <- uid-68__uid_68__artifact_cea1edf0-20d9-4c52-b338-697c6026b814.py
+[START] hk-67-31 <- uid-105__uid_105__artifact_63e1ef1e-ab65-4443-93da-75de335f7b9a.py
+[START] hk-67-34 <- uid-173__uid_173__artifact_17db96c8-e2cc-416f-98d1-4e0376cfc94f.py
+[START] hk-67-35 <- uid-56__uid_56__artifact_0c13e4ab-5a81-4756-b72e-064c0b1e2de0.py
+The read operation timed out
+[FAIL] hk-67-34
+The read operation timed out
+[FAIL] hk-67-4
+script upload failed (403): {"error_code":"unknown_hotkey","message":"hotkey is not registered in the metagraph: 5Dk3SEN97iQzkjsQks55PB2JoNAnU9FiCdWw4dWXShdjX6M1"}
+[FAIL] hk-67-28
+The read operation timed out
+[FAIL] hk-67-27
+script upload failed (403): {"error_code":"unknown_hotkey","message":"hotkey is not registered in the metagraph: 5CASMobPrTcHyaSfuvb27qWzYSNJQ7SjM3jsPBhcHV28HuHz"}
+[FAIL] hk-67-35
+script upload failed (403): {"error_code":"unknown_hotkey","message":"hotkey is not registered in the metagraph: 5CoUGBy18JGQ9dNbzudYHjUBuMHhHkN81oJMvs7mfve44LAE"}
+[FAIL] hk-67-30
+The read operation timed out
+[FAIL] hk-67-5
+The read operation timed out
+[FAIL] hk-67-31
